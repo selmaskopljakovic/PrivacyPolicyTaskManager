@@ -39,6 +39,7 @@ We want to inform users of this Service that these third parties have access to 
 # Security
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+The security of the link that you are entering into app as API url is on your own risk. This means that Evomecs GmbH and developers fence off security vulnerabilities or certificates on that link. 
 
 # Links to Other Sites
 
